@@ -1,6 +1,13 @@
 window.BDTHEME_CONFIG = {
-  "blogUrl": "https://dukan-shop.blogspot.com",
-  "siteName": "Dukan Shop",
+  "blogUrl": "https://bdtheme9.blogspot.com/",
+  "siteUrl": "https://bdtheme.github.io",
+  "basePath": "/bdtheme",
+  "language": "en",
+  "reviews": {
+    "supabaseUrl": "",
+    "anonKey": ""
+  },
+  "siteName": "bdtheme",
   "tagline": "Discover quality products and shop with confidence.",
   "currencySymbol": "$",
   "currencyCode": "USD",
